@@ -8,10 +8,14 @@ I offer 14 years of automation, development, and business experience, along with
 
 ## How did this blog start?
 
-<figure align="center">
-	<img src="./imgs/If_you_Give_a_Mouse_a_Cookie.jpg" alt="If you Give a Mouse a Cookie book cover">
-  <figcaption><small><em>If you Give a Mouse a Cookie book cover - Fair use</em></small></figcaption>
-</figure>
+<p>
+  <figure align="center">
+    <img src="./imgs/If_you_Give_a_Mouse_a_Cookie.jpg" alt="If you Give a Mouse a Cookie book cover">
+    <figcaption><small><em>If you Give a Mouse a Cookie book cover - Fair use</em></small></figcaption>
+  </figure>
+</p>
+
+
 As all things tend to start in technology, all I wanted to do was something simple...set up my new Mac Mini. From there, I went down a rabbit hole
 
 ```mermaid
@@ -44,4 +48,4 @@ I think it makes a _lot_ of sense for this to be a technology-focused blog. Writ
 
 ## Conclusion
 
-Thanks to y'all who have made it reading this far. I hope everyone can enjoy and learn from my content! If you have any comments, or come across any problems, I encourage you to open an issue on my [GitHub repo](link here).
+Thanks to y'all who have made it reading this far. I hope everyone can enjoy and learn from my content! If you have any comments, or come across any problems, I encourage you to open an issue on my [GitHub repo](https://github.com/gordon-code/blog/issues).
